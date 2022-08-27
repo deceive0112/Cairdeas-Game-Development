@@ -1,0 +1,20 @@
+
+gameObjects.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 0, 0
+  size: 288, 240
+  orig: 288, 240
+  offset: 0, 0
+  index: -1
+slime
+  rotate: false
+  xy: 288, 80
+  size: 224, 160
+  orig: 224, 160
+  offset: 0, 0
+  index: -1
